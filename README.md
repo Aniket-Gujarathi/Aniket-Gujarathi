@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am Aniket Gujarathi and I am an aspiring robotics researcher. I wish to make the world a better place through the advancements in robotics and AI. Happy to be a part of the evolution and revolution of robotics in today's world.
+- 🔭 I’m currently working on autonomous robotic systems (state estimation and localization, motion planning)
+- 🌱 I am interested in researching various ways to integrate the conventional methodologies like perception, control, localization and planning with active perception and Deep Learning.
+- 💬 I am happy to share my experiences in robotics and would like to hear about yours too.
+- 📫 How to reach me: You can contact me on my email - aniketg.vnit@gmail.com
+- ⚡ Check out our projects at - [IvLabs](https://www.ivlabs.in/)
