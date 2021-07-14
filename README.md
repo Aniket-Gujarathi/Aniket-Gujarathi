@@ -18,5 +18,5 @@ My name is Aniket Gujarathi and I am an incoming graduate student at the Univers
 - 🔭 I am currently working on developing deep-learning networks to improve local feature matching between images with extreme viewpoint changes. Check out our [project](https://uditsinghparihar.github.io/RoRD/) and [paper](https://arxiv.org/abs/2103.08573) accepted for presentation at IEEE/RSJ IROS 2021. I am also working on a project for eye-gaze tracking using event-driven perception in collaboration with the EDPR Lab, IIT, Genoa.
 - 🌱 I am interested in integrating the conventional methodologies like perception, control, localization and planning with active perception and Deep Learning to develop efficient autonomous robots/systems with practical applications.
 - 💬 I am happy to share my experiences in robotics and would like to hear about yours too.
-- 📫 How to reach me: You can contact me on my email - aniketg.vnit@gmail.com
+- 📫 How to reach me: You can contact me on my email - aniket.gujarathi04@gmail.com
 - ⚡ Check out our projects at - [IvLabs](https://www.ivlabs.in/)
