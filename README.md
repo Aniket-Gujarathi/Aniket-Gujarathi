@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name is Aniket Gujarathi and I am a graduate student at the University of Toronto pursuing an emphasis in robotics. I wish to make the world a better place through the advancements in robotics and AI. Happy to be a part of the evolution and transformation of robotics in today's world.
-- 👯 Currently, I am working at the Autonomous Space Robotics Lab at the University of Toronto under the guidance of Prof. Tim Barfoot.
+My name is Aniket Gujarathi and I am a graduate student at the University of Toronto pursuing an emphasis in robotics. My interests lie in deep learning and perception for robotic applications.
+- 👯 Currently, I am working at Gatik.ai as a Software Engineering Intern - Perception.
 - 🔭 Previously I have worked on developing a deep-learning network to improve local feature matching between images with extreme viewpoint changes. Check out our [project](https://uditsinghparihar.github.io/RoRD/) and [paper](https://arxiv.org/abs/2103.08573) accepted for presentation at IEEE/RSJ IROS 2021. I have also worked on projects for tracking using event-driven perception in collaboration with the EDPR Lab, IIT, Genoa.
 - 🌱 I am interested in integrating the conventional methodologies like perception, control, localization and planning with active perception and Deep Learning to develop efficient autonomous robots/systems with practical applications.
 - 💬 I am happy to share my experiences in robotics and would like to hear about yours too.
