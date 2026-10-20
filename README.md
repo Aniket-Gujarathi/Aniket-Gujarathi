@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 My name is Aniket Gujarathi and my interests lie in deep learning, perception, and localization for autonomous robotic applications.
-- 👯 Most recently I have led the perception, localization and mapping efforts at ([Robotics Assistance Devices](https://radsecurity.com/)) to develop and deploy autonomous outdoor surveillance robots (ROAMEO) across 5 client sites, working reliably and safely.
+- 👯 Most recently I have led the perception, localization and mapping efforts at [Robotics Assistance Devices](https://radsecurity.com/) to develop and deploy autonomous outdoor surveillance robots (ROAMEO) across 5 client sites, working reliably and safely.
 - 👯 Before that, I worked at [Gatik.ai](https://www.gatik.ai/) as a Software Engineering Intern - Perception, on data collection pipelines, and lidar perception modules.
 - 🔭 Previously I have worked on developing a deep-learning network to improve local feature matching between images with extreme viewpoint changes. Check out our [project](https://uditsinghparihar.github.io/RoRD/) and [paper](https://arxiv.org/abs/2103.08573) accepted for presentation at IEEE/RSJ IROS 2021.
 - 🔭 I have also worked on projects for low latency, high speed tracking using event-driven perception in collaboration with the EDPR Lab, IIT, Genoa.
